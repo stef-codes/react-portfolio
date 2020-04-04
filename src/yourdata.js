@@ -2,7 +2,7 @@ export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
         //Change The Website Template
-        name :'chetanverma.',
+        name :'stef.',
         headerTagline: [//Line 1 For Header
                         'Hi 👋 You found me! I am Your Name.',
                         //Line 2 For Header
