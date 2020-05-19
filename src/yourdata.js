@@ -2,11 +2,11 @@ export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
         //Change The Website Template
-        name :'stef.',
+        // name :'stef.',
         headerTagline: [//Line 1 For Header
-                        'Hi 👋! I am Stefanie Davis',
+                        'Hi 👋🏾 ! I am Stefanie Davis',
                         //Line 2 For Header
-                        'Software Engineer | Problem Solver ',
+                        'Software Engineer && Data Consultant ',
                         //Line 3 For Header
                         'from Los Angeles'
     ],
@@ -65,18 +65,14 @@ export default
         social: [
             // Add Or Remove The Link Accordingly
             {   name:'Github',
-                url:'https://github.com/chetanverma16'},
+                url:'https://github.com/stef-codes'},
             {
-                name: 'Behance',
-                url: 'https://www.behance.net/chetanverma'
+                name: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/stefbuilds/'
             },
             {
-                name: 'Dribbble',
-                url: 'https://dribbble.com/chetanverma'
-            },
-            {
-                name: 'Instagram',
-                url: 'https://www.instagram.com/cv.uidesign/'
+                name: 'YouTube',
+                url: 'https://www.youtube.com/channel/UCwFnoxQ1ivQjKmvAHfyYUXQ?view_as=subscriber/'
             }
 
         ]
