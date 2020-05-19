@@ -21,32 +21,32 @@ export default
        projects:[
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Music Journal', //Project Title - Add Your Project Title Here
-             service:'React | Redux | iTunes API | Rails | Postgres', // Add Your Service Type Here
+            title:'Music Journal (Sonica)', //Project Title - Add Your Project Title Here
+             service:'React | Redux | iTunes API | Rails API | Postgres', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
-             imageSrc:"https://images.unsplash.com/photo-1558104631-0fa41a8f6c20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+             imageSrc:"https://images.unsplash.com/photo-1543026433-f8a2c59360cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
              //Project URL - Add Your Project Url Here
-             url:'https://github.com/stef-codes'
+             url:'https://sonica.netlify.app/'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Two',
-                service: 'Website Development',
-                imageSrc: "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'https://github.com/stef-codes'
+                title: 'Book Collection (BookTap)',
+                service: 'Vanilla Javascript | Rails API | Postgres',
+                imageSrc: "https://images.unsplash.com/photo-1529158062015-cad636e205a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                url: 'https://booktap.netlify.app/'
             },
             { 
                 id: 3,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Three',
-                service: 'Web App',
-                imageSrc: "https://images.unsplash.com/photo-1511500118080-275313ec90a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'https://github.com/stef-codes'
+                title: 'Quote Collection (Enquote)',
+                service: 'Rails | Postgres',
+                imageSrc: "https://images.unsplash.com/photo-1544210163-257effe9399e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                url: 'https://enquote-rails.herokuapp.com/'
             },
             {
                 id: 4,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Four',
-                service: 'Branding',
-                imageSrc: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                title: 'Book Collection (Beale)',
+                service: 'Sinatra | Ruby',
+                imageSrc: "https://hips.hearstapps.com/esq.h-cdn.co/assets/17/31/1501694475-baldwin.jpg",
                 url: 'https://github.com/stef-codes'
            }
 
