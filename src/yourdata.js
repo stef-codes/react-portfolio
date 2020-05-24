@@ -65,7 +65,8 @@ export default
         social: [
             // Add Or Remove The Link Accordingly
             {   name:'Github',
-                url:'https://github.com/stef-codes'},
+                url:'https://github.com/stef-codes'
+            },
             {
                 name: 'LinkedIn',
                 url: 'https://www.linkedin.com/in/stefbuilds/'
